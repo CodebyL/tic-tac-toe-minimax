@@ -14,7 +14,7 @@
 
 3️⃣ Run the Game
 	•	Open a terminal (Command Prompt or Terminal) and navigate to the folder where the file is saved.
-	•	Run the following command: python tic_tac_toe.py
+	•	Run the following command: **python tic_tac_toe.py**
 
 4️⃣ Play the Game
 	•	Enter a number (1-9) to place your X.
